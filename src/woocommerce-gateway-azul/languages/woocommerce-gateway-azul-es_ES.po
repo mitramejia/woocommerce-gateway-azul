@@ -1,0 +1,255 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Azul Payment Gateway for WooCommerce\n"
+"POT-Creation-Date: 2017-07-05 13:38-0400\n"
+"PO-Revision-Date: 2017-07-05 13:39-0400\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: woocommerce-gateway-azul.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/admin/settings-azul.php:20 includes/admin/settings-azul.php:22
+msgid "Activate payments with Azul"
+msgstr "Activar pagos con Azul"
+
+#: includes/admin/settings-azul.php:27 includes/admin/settings-azul.php:29
+msgid "Activate testing mode"
+msgstr "Activar modo de pruebas"
+
+#: includes/admin/settings-azul.php:34
+msgid "Merchant Number"
+msgstr "Número de comerciante"
+
+#: includes/admin/settings-azul.php:36 includes/admin/settings-azul.php:37
+msgid "Merchant Number assigned by Azul when the affiliation is approved"
+msgstr "Número de comercio asignado de Azul cuando la afiliación es aprobada"
+
+#: includes/admin/settings-azul.php:42
+msgid "Test Merchant Number"
+msgstr "Número de comerciante para pruebas"
+
+#: includes/admin/settings-azul.php:44 includes/admin/settings-azul.php:45
+msgid "Merchant Number assigned by Azul for testing"
+msgstr "Número del comercio asignado por Azul para el modo de pruebas"
+
+#: includes/admin/settings-azul.php:50
+msgid "Merchant Name"
+msgstr "Nombre del Comercio"
+
+#: includes/admin/settings-azul.php:52
+msgid "The name of the business"
+msgstr "El nombre del negocio"
+
+#: includes/admin/settings-azul.php:57
+msgid "Merchant Type"
+msgstr "Tipo de comercio"
+
+#: includes/admin/settings-azul.php:59 includes/admin/settings-azul.php:60
+msgid "Merchant type (for informative reasons)"
+msgstr "Tipo de comercio (por razones informativas)"
+
+#: includes/admin/settings-azul.php:66
+msgid ""
+"Currency Code. If the bussines is going to charge in Dominican Pesos (DOP) "
+"use $"
+msgstr ""
+"Código de moneda. Si el negocio va a cobrar en Pesos Dominicanos (DOP) use $"
+
+#: includes/admin/settings-azul.php:68
+#, fuzzy
+#| msgid ""
+#| "Each MID or store trades with a single currency. This value is provided "
+#| "by blue next to the data of access to each environment. If your bussines "
+#| "is going to charge in Dominican Pesos (DOP) use $"
+msgid ""
+"Each MID or store trades with a single currency. This value is provided by "
+"blue next to the data of access to each environment. If the bussines is "
+"going to charge in Dominican Pesos (DOP) use $"
+msgstr ""
+"Cada medio o tienda comercial trabaja con una moneda única. Este valor es "
+"proporcionado por azul junto a los datos de acceso a cada entorno. Si su "
+"negocio va a cobrar en Pesos Dominicanos (DOP), deje el signo de $"
+
+#: includes/admin/settings-azul.php:69
+msgid "Currency Code"
+msgstr "Código de divisa"
+
+#: includes/admin/settings-azul.php:74 includes/admin/settings-azul.php:76
+msgid "Test Auth Key"
+msgstr "Clave de autenticación para pruebas"
+
+#: includes/admin/settings-azul.php:77
+msgid ""
+"An Auth key to be used in testing environment. This key should only work at "
+"pruebas.azul.com.do. This Test Auth key should be given to you by a bank "
+"representative."
+msgstr ""
+"Una clave de autenticación para ser utilizada en pruebas de medio ambiente. "
+"Esta clave debe trabajar sólo en pruebas.azul.com.do. Esta clave de "
+"autenticación de prueba debería ser entregada a usted por un representante "
+"del Banco."
+
+#: includes/admin/settings-azul.php:81 includes/admin/settings-azul.php:83
+msgid "Auth Key"
+msgstr "Clave de autenticación"
+
+#: includes/admin/settings-azul.php:84
+msgid "Your Auth key should be given to you by a bank representative."
+msgstr ""
+"Esta clave de autenticación de prueba debería ser entregada a usted por un "
+"representante del Banco."
+
+#: includes/admin/settings-azul.php:89
+msgid "Title"
+msgstr "Titulo"
+
+#: includes/admin/settings-azul.php:91
+msgid ""
+"This controls the title for the payment method the customer sees during "
+"checkout."
+msgstr ""
+"Controla el título para el método de pago que el cliente ve durante la "
+"comprobación."
+
+#: includes/admin/settings-azul.php:92
+msgid "Payment with Azul from Banco Popular"
+msgstr "Pago con Azul de Banco Popular"
+
+#: includes/admin/settings-azul.php:97
+msgid "Description"
+msgstr "Descripción"
+
+#: includes/admin/settings-azul.php:99
+msgid "Payment method description that the customer will see on your checkout."
+msgstr "Descripción del método de pago que el cliente verá en su pago."
+
+#: includes/admin/settings-azul.php:100
+msgid "Use the Azul Payment Page to pay your reservation"
+msgstr "Utilizar la página de pagos de Azul para pagar tu reserva"
+
+#: includes/admin/settings-azul.php:105
+msgid "Instructions"
+msgstr "Instrucciones"
+
+#: includes/admin/settings-azul.php:107
+msgid "Instructions that will be added to the thank you page and emails."
+msgstr ""
+"Instrucciones que se añadirán a la página de agradecimiento y correos "
+"electrónicos."
+
+#: includes/class-wc-gateway-azul.php:54
+msgid "Next"
+msgstr "Siguiente"
+
+#: includes/class-wc-gateway-azul.php:55
+msgid "Azul"
+msgstr "Azul"
+
+#: includes/class-wc-gateway-azul.php:56
+msgid "Use the Azul Payment Page."
+msgstr "Utiliza la página de pagos de Azul."
+
+#: includes/class-wc-gateway-azul.php:77
+msgid "TEST MODE ENABLED."
+msgstr "MODO DE PRUEBAS ACTIVADO."
+
+#: includes/class-wc-gateway-azul.php:113
+msgid "Awaiting azul payment"
+msgstr "En espera de pago"
+
+#: templates/wc-azul-payment-form.php:22
+msgid ""
+"Thank you for your order, please click the button below to pay with Azul."
+msgstr "Gracias por su pedido, por favor pulsa el botón para pagar con Azul."
+
+#: woocommerce-gateway-azul.php:144
+#, php-format
+msgid ""
+"Azul is almost ready. To get started, <a href=\"%s\">set your Azul auth key</"
+"a>."
+msgstr ""
+"Azul está casi listo. Para comenzar, <a href=\"%s\">configure su clave de "
+"autenticación de Azul</a>."
+
+#: woocommerce-gateway-azul.php:156
+#, php-format
+msgid ""
+"WooCommerce Azul - The minimum PHP version required for this plugin is %1$s. "
+"You are running %2$s."
+msgstr ""
+"WooCommerce Azul - la versión mínima de PHP requerida para este plugin es "
+"%1$s. Ejecuta %2$s."
+
+#: woocommerce-gateway-azul.php:163
+msgid "WooCommerce Azul requires WooCommerce to be activated to work."
+msgstr "WooCommerce Azul requiere WooCommerce activado para funcionar."
+
+#: woocommerce-gateway-azul.php:167
+#, php-format
+msgid ""
+"WooCommerce Azul - The minimum WooCommerce version required for this plugin "
+"is %1$s. You are running %2$s."
+msgstr ""
+"WooCommerce Azul - la versión de WooCommerce mínima requerida para este "
+"plugin es %1$s. Ejecuta %2$s."
+
+#: woocommerce-gateway-azul.php:174
+msgid "WooCommerce Azul - cURL is not installed."
+msgstr "WooCommerce Azul - cRUL no está instalado."
+
+#: woocommerce-gateway-azul.php:228
+msgid "Settings"
+msgstr "Ajustes"
+
+#. Plugin Name of the plugin/theme
+msgid "Azul Payment Gateway for WooCommerce"
+msgstr "Pasarela de pago Azul para WooCommerce"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/mitramejia/woocommerce-gateway-azul"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Payment gateway for Azul (https://www.azul.com.do)"
+msgstr "Pasarela de pago Azul (https://www.azul.com.do)"
+
+#. Author of the plugin/theme
+msgid "Mitra Mejía Author URI:        https://mitramejia.com"
+msgstr "Mitra Mejía URI del autor : https://mitramejia.com"
+
+#. Author URI of the plugin/theme
+msgid "https://mitramejia.com"
+msgstr ""
+
+#~ msgid "Payment completed"
+#~ msgstr "Pago completado"
+
+#~ msgid ""
+#~ "Credit Card declined. If you want to try again click the button bellow"
+#~ msgstr ""
+#~ "Tarjeta de crédito rechazada. Si quieres probar otra vez, haga clic en el "
+#~ "siguiente botón"
+
+#~ msgid "Payment canceled. If you want to try again click the button bellow"
+#~ msgstr ""
+#~ "Pago cancelado. Si quieres probar otra vez, haga clic en el siguiente "
+#~ "botón"
+
+#~ msgid "Paga con Azul"
+#~ msgstr "Paga con Azul"
+
+#~ msgid "Usa la página de pagos de Azul, del Banco Popular"
+#~ msgstr "Usa la página de pagos de Azul, del Banco Popular"
