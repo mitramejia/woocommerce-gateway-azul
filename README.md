@@ -21,3 +21,5 @@ Start containers
 
 Setup wordpress and activate plugins
 `docker-compose exec wordpress bash bin/wp-setup.sh`
+
+See your wordpress installation at `http://localhost:8000`
